@@ -1,0 +1,6 @@
+c:\users\renato\documents\visual studio 2017\Projects\TesteDeGit\TesteDeGit\bin\Debug\TesteDeGit.exe.config
+c:\users\renato\documents\visual studio 2017\Projects\TesteDeGit\TesteDeGit\bin\Debug\TesteDeGit.exe
+c:\users\renato\documents\visual studio 2017\Projects\TesteDeGit\TesteDeGit\bin\Debug\TesteDeGit.pdb
+c:\users\renato\documents\visual studio 2017\Projects\TesteDeGit\TesteDeGit\obj\Debug\TesteDeGit.csprojResolveAssemblyReference.cache
+c:\users\renato\documents\visual studio 2017\Projects\TesteDeGit\TesteDeGit\obj\Debug\TesteDeGit.exe
+c:\users\renato\documents\visual studio 2017\Projects\TesteDeGit\TesteDeGit\obj\Debug\TesteDeGit.pdb
